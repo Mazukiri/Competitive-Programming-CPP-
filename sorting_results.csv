@@ -1,0 +1,26 @@
+Size,Algorithm,Time(ms)
+2000,Bubble Sort,20.435
+2000,Insertion Sort,5.124
+2000,Quick Sort,0.175
+2000,Heap Sort,0.560
+2000,Merge Sort,1.931
+4000,Bubble Sort,76.210
+4000,Insertion Sort,20.601
+4000,Quick Sort,1.066
+4000,Heap Sort,1.077
+4000,Merge Sort,16.137
+6000,Bubble Sort,173.395
+6000,Insertion Sort,45.601
+6000,Quick Sort,1.061
+6000,Heap Sort,1.683
+6000,Merge Sort,6.653
+8000,Bubble Sort,314.576
+8000,Insertion Sort,80.475
+8000,Quick Sort,1.139
+8000,Heap Sort,2.110
+8000,Merge Sort,15.173
+10000,Bubble Sort,484.295
+10000,Insertion Sort,128.197
+10000,Quick Sort,2.095
+10000,Heap Sort,2.796
+10000,Merge Sort,10.821
